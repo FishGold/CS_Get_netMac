@@ -1,0 +1,4 @@
+C:\Users\RD\AppData\Local\Temporary Projects\CS_Get_netMac\bin\Debug\CS_Get_netMac.exe
+C:\Users\RD\AppData\Local\Temporary Projects\CS_Get_netMac\bin\Debug\CS_Get_netMac.pdb
+C:\Users\RD\AppData\Local\Temporary Projects\CS_Get_netMac\obj\x86\Debug\CS_Get_netMac.exe
+C:\Users\RD\AppData\Local\Temporary Projects\CS_Get_netMac\obj\x86\Debug\CS_Get_netMac.pdb

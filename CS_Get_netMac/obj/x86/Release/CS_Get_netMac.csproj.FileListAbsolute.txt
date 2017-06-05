@@ -1,0 +1,6 @@
+C:\Users\RD\AppData\Local\Temporary Projects\CS_Get_netMac\bin\Release\CS_Get_netMac.exe
+C:\Users\RD\AppData\Local\Temporary Projects\CS_Get_netMac\bin\Release\CS_Get_netMac.pdb
+C:\Users\RD\AppData\Local\Temporary Projects\CS_Get_netMac\obj\x86\Release\CS_Get_netMac.exe
+C:\Users\RD\AppData\Local\Temporary Projects\CS_Get_netMac\obj\x86\Release\CS_Get_netMac.pdb
+D:\Visual project code\CS_Get_netMac\CS_Get_netMac\obj\x86\Release\CS_Get_netMac.exe
+D:\Visual project code\CS_Get_netMac\CS_Get_netMac\obj\x86\Release\CS_Get_netMac.pdb
